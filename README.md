@@ -1,5 +1,3 @@
-SQL-Based-Business-Performance-Analysis
-
 **SQL-Based Business Performance Analysis**
 
 This project performs a **comprehensive business data analysis using SQL**, focusing on **customers, employees, sales, and product inventory**. The insights help in **decision-making, sales optimization, and inventory management**.
